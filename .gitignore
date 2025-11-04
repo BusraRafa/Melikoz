@@ -1,0 +1,8 @@
+venv/
+qwen_embed/
+chroma_db/
+chroma_db_structured/
+chroma_db_using_chroma_merge_pdf/
+chroma_db_using_chroma_vers_2_Return Policy/
+chroma_db_using_pre_Return Policy/
+multipdf_merge_chroma_db/
